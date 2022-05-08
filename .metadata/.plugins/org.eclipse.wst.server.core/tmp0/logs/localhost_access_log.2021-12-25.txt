@@ -1,0 +1,12 @@
+127.0.0.1 - - [25/Dec/2021:01:56:03 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [25/Dec/2021:01:56:07 +0900] "GET /ChistmasProj/dbconn.jsp HTTP/1.1" 200 112
+0:0:0:0:0:0:0:1 - - [25/Dec/2021:01:56:17 +0900] "GET /ChistmasProj/welcome.jsp HTTP/1.1" 200 1446
+0:0:0:0:0:0:0:1 - - [25/Dec/2021:01:56:17 +0900] "GET /ChistmasProj/img/christmasDoorImg.jpg HTTP/1.1" 200 410104
+0:0:0:0:0:0:0:1 - - [25/Dec/2021:01:56:17 +0900] "GET /ChistmasProj/resources/css/bootstrap.min.css HTTP/1.1" 200 168261
+0:0:0:0:0:0:0:1 - - [25/Dec/2021:01:56:22 +0900] "GET /ChistmasProj/products.jsp HTTP/1.1" 500 2697
+0:0:0:0:0:0:0:1 - - [25/Dec/2021:01:56:27 +0900] "GET /ChistmasProj/welcome.jsp HTTP/1.1" 200 1446
+0:0:0:0:0:0:0:1 - - [25/Dec/2021:01:56:29 +0900] "GET /ChistmasProj/addProduct.jsp HTTP/1.1" 200 1915
+0:0:0:0:0:0:0:1 - - [25/Dec/2021:01:56:35 +0900] "POST /ChistmasProj/j_security_check HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [25/Dec/2021:01:56:35 +0900] "GET /ChistmasProj/login.jsp?error=1 HTTP/1.1" 200 2006
+0:0:0:0:0:0:0:1 - admin [25/Dec/2021:01:56:39 +0900] "POST /ChistmasProj/j_security_check HTTP/1.1" 303 -
+0:0:0:0:0:0:0:1 - admin [25/Dec/2021:01:56:39 +0900] "GET /ChistmasProj/addProduct.jsp HTTP/1.1" 500 2667

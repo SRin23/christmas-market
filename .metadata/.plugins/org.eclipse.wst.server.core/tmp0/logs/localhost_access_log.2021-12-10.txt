@@ -1,0 +1,10 @@
+127.0.0.1 - - [10/Dec/2021:06:26:55 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:06:26:57 +0900] "GET /ChistmasProj/welcome.jsp HTTP/1.1" 200 1477
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:06:26:57 +0900] "GET /ChistmasProj/img/christmasDoorImg.jpg HTTP/1.1" 200 410104
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:06:26:57 +0900] "GET /ChistmasProj/img/harrypotter.png HTTP/1.1" 200 6713
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:06:26:57 +0900] "GET /ChistmasProj/resources/css/bootstrap.min.css HTTP/1.1" 200 168261
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:06:56:22 +0900] "GET /ChistmasProj/welcome.jsp HTTP/1.1" 200 1477
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:06:56:33 +0900] "GET /ChistmasProj/products.jsp HTTP/1.1" 500 2697
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:06:56:36 +0900] "GET /ChistmasProj/products.jsp HTTP/1.1" 500 2697
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:06:56:45 +0900] "GET /ChistmasProj/products.jsp HTTP/1.1" 500 2697
+0:0:0:0:0:0:0:1 - - [10/Dec/2021:06:57:13 +0900] "GET /ChistmasProj/welcome.jsp HTTP/1.1" 200 1446
